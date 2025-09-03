@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "email": "email@example.com",
+      "name": "Gabi"
+    },
+	{
+	  "email": "email@example.com",
+	  "name": "Arthur Ferraz"
+	},
+	{
+	  "email": "gabriellemelo.projetosjr@gmail.com",
+	  "name" : "Gabi Melo"	  
+	}
+  ],
+  "aprovados": [
+    {
+      "email": "",
+      "name": "Time Interno"
+    }
+  ],
+  "reprovados": [
+    ""
+  ]
+}
